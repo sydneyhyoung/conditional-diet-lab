@@ -1,5 +1,3 @@
-require 'bundler'
-Bundler.require
 
 
 # 1. Write a method called no_donuts that takes in a number of donuts as an argument. If the number of donuts is greater than zero then this method should return "Get back on your diet!" otherwise it should return "Good job, Homer!"
